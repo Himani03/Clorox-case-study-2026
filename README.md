@@ -1,7 +1,5 @@
 # SAP S/4HANA Value Realization: An Independent Case Analysis
 
-**[Read the full analysis →](./clorox_case_analysis.docx)**
-
 An independent case analysis of Clorox's real, publicly reported $580M SAP S/4HANA
 transformation, examining how value realization was tracked post go-live and evaluating
 a genuine business tradeoff the program faced.
